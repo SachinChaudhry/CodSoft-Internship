@@ -19,14 +19,14 @@ Welcome to my Codsoft internship in Python programming! During this internship, 
   - User-friendly interface for input and output
 - **How to Run:** To use the calculator, simply run the `calculator.py` script.
 
-### 2. Weather Forecast Application
+### 2.Rock-Paper-Scissors Game
 
-- **Description:** I created a weather forecast application that provides up-to-date weather information for a specified location.
+- **Description:** Implemented the classic Rock-Paper-Scissors game where users can play against the computer.
 - **Features:** 
-  - Fetches weather data from an API
-  - Displays current weather conditions, temperature, humidity, and more
-  - User-friendly command-line interface
-- **How to Run:** Run the `weather_forecast.py` script and follow the prompts to enter the location you want to check the weather for.
+  - User input for rock, paper, or scissors
+  - Computer-generated random choices
+  - Determines the winner based on the game rules
+- **How to Run:** Launch the `rock_paper_scissors.py` script and enjoy a game of Rock-Paper-Scissors!
 
 ### 3. Password Generator
 
